@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+a {
+  color: #11999E;
+}
+a:hover {
+  color: #EAF6F6
+}
+
+p {
+  color: #40514E;
+}
+
+hr {
+  border: dotted #E8E8E8 5px;
+  border-bottom: none;
+  width: 4%;
+  margin: 70px auto;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.irinaimage {
+  padding-top: 30px;
+}
+.middle-container {
+  margin: 20px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
+.footer-link {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  text-decoration: none;
+  padding: 20px;
+}
+.copyright {
+  padding-top: 20px;
+  color: #EAF6F6;
+  font-size: 0.7rem;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.skill-row {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.webpic {
+    margin-right: 30px;
+    max-width: 25%;
+    float: left;
+}
+.webpic2 {
+    max-width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.contact-me {
+  height: 250px;
+  margin-bottom: 70px;
+}
+.contact-message{
+  width: 40%;
+  margin: 5px auto 5px;
+}
+.btn {
+  line-height: 6;
+  background: #9bcfcf;
+  background-image: -webkit-linear-gradient(top, #9bcfcf, #66BFBF);
+  background-image: -moz-linear-gradient(top, #9bcfcf, #66BFBF);
+  background-image: -ms-linear-gradient(top, #9bcfcf, #66BFBF);
+  background-image: -o-linear-gradient(top, #9bcfcf, #66BFBF);
+  background-image: linear-gradient(to bottom, #9bcfcf, #66BFBF);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  text-decoration: none;
+}
